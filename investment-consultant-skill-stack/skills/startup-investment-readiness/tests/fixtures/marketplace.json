@@ -1,0 +1,12 @@
+{
+  "stage": "early_revenue",
+  "business_model": "marketplace",
+  "analysis_intent": "investor_screening",
+  "revenue_logic_known": true,
+  "capital_ask_known": true,
+  "available_evidence": ["gmv_history", "revenue_history", "customer_data"],
+  "ownership_material": false,
+  "long_term_cash_flow_evidence": false,
+  "has_spreadsheet_model": false,
+  "evidence_conflicts": []
+}

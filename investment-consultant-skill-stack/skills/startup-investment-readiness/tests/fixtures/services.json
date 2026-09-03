@@ -1,0 +1,12 @@
+{
+  "stage": "early_revenue",
+  "business_model": "services",
+  "analysis_intent": "valuation_only",
+  "revenue_logic_known": true,
+  "capital_ask_known": true,
+  "available_evidence": ["historical_pnl", "pipeline", "headcount"],
+  "ownership_material": false,
+  "long_term_cash_flow_evidence": false,
+  "has_spreadsheet_model": false,
+  "evidence_conflicts": []
+}

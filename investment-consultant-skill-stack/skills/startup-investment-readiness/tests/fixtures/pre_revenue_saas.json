@@ -1,0 +1,12 @@
+{
+  "stage": "launched_pre_revenue",
+  "business_model": "saas",
+  "analysis_intent": "investor_screening",
+  "revenue_logic_known": true,
+  "capital_ask_known": true,
+  "available_evidence": ["pitch_deck", "cash_balance", "pricing"],
+  "ownership_material": false,
+  "long_term_cash_flow_evidence": false,
+  "has_spreadsheet_model": false,
+  "evidence_conflicts": []
+}

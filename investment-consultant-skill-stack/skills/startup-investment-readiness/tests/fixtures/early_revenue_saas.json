@@ -1,0 +1,12 @@
+{
+  "stage": "early_revenue",
+  "business_model": "saas",
+  "analysis_intent": "full_due_diligence",
+  "revenue_logic_known": true,
+  "capital_ask_known": true,
+  "available_evidence": ["historical_pnl", "customer_data", "cash_balance", "current_cap_table", "financial_model"],
+  "ownership_material": true,
+  "long_term_cash_flow_evidence": false,
+  "has_spreadsheet_model": true,
+  "evidence_conflicts": []
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "early_revenue",
+  "business_model": "saas",
+  "analysis_intent": "ic_recommendation",
+  "revenue_logic_known": true,
+  "capital_ask_known": true,
+  "available_evidence": ["historical_pnl", "bank_balance", "financial_model", "customer_data"],
+  "ownership_material": true,
+  "long_term_cash_flow_evidence": true,
+  "has_spreadsheet_model": true,
+  "evidence_conflicts": [
+    {"field": "revenue", "material": true, "source_a": "P&L", "source_b": "pitch_deck"}
+  ]
+}
